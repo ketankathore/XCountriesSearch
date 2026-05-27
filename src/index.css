@@ -1,0 +1,13 @@
+:root{
+  --bg:#f6f7fb;
+  --card:#ffffff;
+}
+*{box-sizing:border-box}
+body{
+  margin:0;
+  font-family:Inter,Segoe UI,Roboto,Arial,Helvetica,sans-serif;
+  background:var(--bg);
+  color:#111827;
+}
+
+html,body,#root{height:100%}
